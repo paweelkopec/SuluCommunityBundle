@@ -3,6 +3,7 @@
     "description": "Sulu Bundle for building a community",
     "type": "sulu-bundle",
     "license": "MIT",
+    "minimum-stability": "dev",
     "require": {
         "php": "^8.0 || ^8.1",
         "beberlei/doctrineextensions": "^1.0",
